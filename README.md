@@ -8,19 +8,15 @@ Data mining, sometimes referred to as knowledge discovery, is the method of gath
 
 What Data Mining Can Do?
 
-Although data mining is still in its infancy, companies in a wide range of industries including retail, finance, health care, manufacturing transportation, and aerospace and are already using data mining tools and techniques to take advantage of historical data. By using pattern recognition technologies and statistical and mathematical techniques to sift through warehoused information, data mining helps analysts recognize significant facts, relationships, trends, patterns, exceptions and anomalies that might otherwise go unnoticed.
-For businesses, data mining is used to discover patterns and relationships in the data in order to help make better business decisions. 
-
-HOW DATA MINING WORKS:
-
-How is data mining able to tell you important things that you didn't know or what is going to happen next? That technique that is used to perform these feats is called modeling. Modeling is simply the act of building a model (a set of examples or a mathematical relationship) based on data from situations where the answer is known and then applying the model to other situations where the answers aren't known. Modeling techniques have been around for centuries, of course, but it is only recently that data storage and communication capabilities required to collect and store huge amounts of data, and the computational power to automate modeling techniques to work directly on the data, have been available.
+Although data mining is still in its infancy, companies in a wide range of industries including retail, finance, health care, manufacturing transportation, and aerospace and are already using data mining tools and techniques to take advantage of historical data. By using pattern recognition technologies and statistical and mathematical techniques to sift through warehoused information, data mining helps analysts recognize significant facts, relationships, trends, patterns, exceptions and anomalies that might otherwise go unnoticed. For businesses, data mining is used to discover patterns and relationships in the data in order to help make better business decisions. 
 
 Data Mining Project Experiment:
 For this experiment, we have chosen dataset on “SuperMarket”.
 In “SuperMarket” we are examining the sale of Shaving Product. For that we need to figure out how many people have beard? If yes, Do, they shave regularly, weekly, or monthly?
+
 Using various classification operator, I have predicted weekly, monthly sales of “Shaving Product”.
 
-Use Case link:
+Case link:
 
 https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/1.jpg
 
@@ -53,4 +49,44 @@ Now connecting the output of “Multiply” operator with “Subprocess”operat
 check in the link: 
 
 https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/6.jpg
+
+When working with “Decision Tree”, you need to make sure that your data only contains attribute and label types which are allowed in Decision Tree operator. The Decision Tree operator just accepts Polynomial, Numerical and Binomial attribute and Binomial and Polynomial labels (target attributes). So, if your target data is a numeric variable you may modify it to the accepted type by categorizing it into several intervals and then defining dummy binomial attributes for each interval.
+
+check in the link: 
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/7.jpg
+
+“Subprocess” operator introduces a process within a process. Whenever a Subprocess operator is reached during a process execution, first the entire subprocess is executed. Once the subprocess execution is complete, the flow is returned to the process (the parent process). A subprocess can be considered as a small unit of a process.
+
+“Loop Parameter” operator iterates over its subprocess for all the defined parameter combinations.
+After that my “Loop Parameter” is connected with “Subprocess” operator and “Select” operator. The “Select” operator returns the specified single object from the given collection of objects.
+
+check in the link: 
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/8.jpg
+
+In the end connecting two subprocesses with “Branch” operator as it executes only one subprocess at a time depending upon the condition. This operator is similar to the 'if-then-else' statement, where one of the two options is selected depending upon the results of the specified condition.
+
+check in the link: 
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/9.jpg
+
+RESULT:
+
+The results obtained from the above performed experiment are as follows:
+
+Decision Tree – Graphical Representation link:
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/10.jpg
+
+This model describes how to characterize your customers as responders or non- responders.
+
+Plot View link:
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/11.jpg
+
+Learning Curve link:
+
+https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/12.jpg
+
 
