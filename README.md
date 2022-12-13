@@ -11,6 +11,7 @@ What Data Mining Can Do?
 Although data mining is still in its infancy, companies in a wide range of industries including retail, finance, health care, manufacturing transportation, and aerospace and are already using data mining tools and techniques to take advantage of historical data. By using pattern recognition technologies and statistical and mathematical techniques to sift through warehoused information, data mining helps analysts recognize significant facts, relationships, trends, patterns, exceptions and anomalies that might otherwise go unnoticed. For businesses, data mining is used to discover patterns and relationships in the data in order to help make better business decisions. 
 
 Data Mining Project Experiment:
+
 For this experiment, we have chosen dataset on “SuperMarket”.
 In “SuperMarket” we are examining the sale of Shaving Product. For that we need to figure out how many people have beard? If yes, Do, they shave regularly, weekly, or monthly?
 
