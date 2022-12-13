@@ -1,5 +1,9 @@
 # Data-Mining-Project
 
+Hi, I am Sehresh Mehboob.
+
+I am going to show you (step by step) my Data Mining Project in the form of screenshots.
+
 TOPIC: ARTIFICIAL INTELLIGENCE AND BUSINESS INTELLIGENCE PROJECT (Data Mining)
 
 Introduction:
