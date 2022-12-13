@@ -90,4 +90,4 @@ Learning Curve link:
 
 https://github.com/sehresh92/Data-Mining-Project/blob/main/Project/12.jpg
 
-
+Thank you for watching my Data Mining Project :-)
